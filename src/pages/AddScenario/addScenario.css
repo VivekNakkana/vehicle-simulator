@@ -1,0 +1,24 @@
+.scenario-container{
+    width: 100%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.scenario-inputs{
+    display: flex;
+    gap: 8rem;
+    background-color: #2e2a2a;
+    padding:40px 80px;
+    margin-bottom: 2rem;
+}
+.scenario-inputs>div{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    color: #ffffff65;
+}
+

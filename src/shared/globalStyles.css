@@ -1,0 +1,44 @@
+input{
+    background-color: #1d1d1d;
+    color: #e9e5e5;
+    border: none;
+    font-size: 16px;
+    padding: 12px 18px;
+    border-radius: 4px;
+}
+
+input:focus { 
+    outline: none !important;
+    box-shadow: 0 0 6px #77766f;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.btn{
+    margin-right: 16px;
+    padding: 10px 16px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.orange{
+    background: #ffa601;
+}
+.blue{
+    background-color: #5d5ddf;
+}
+.green{
+    background-color: #09b909;
+}
+h2{
+    font-weight: 400;
+    text-align: start;
+    font-size: 28px;
+}

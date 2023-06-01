@@ -1,0 +1,39 @@
+.vehicle-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: #fff;
+}
+
+.vehicle-inputs{
+    background-color: #2e2a2a;
+    padding: 40px 80px;
+    margin-bottom: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.sub-container{
+    display: flex;
+    gap: 2rem;
+}
+
+.input-field{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    color: #ffffff65;
+    width: 200px;
+}
+
+.drop-down{
+    background-color: #1d1d1d;
+    color: #e9e5e5;
+    border: none;
+    font-size: 16px;
+    padding: 12px 18px;
+    border-radius: 4px;
+    outline: none;
+}
